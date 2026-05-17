@@ -1,0 +1,3 @@
+pyCryptoPayAPI
+python-telegram-bot
+python-dotenv
